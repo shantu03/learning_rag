@@ -1,0 +1,9 @@
+
+
+
+
+(Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\25212021114\Desktop\python\venv\Scripts\Activate.ps1)
+
+
+
+command Powershell: 
