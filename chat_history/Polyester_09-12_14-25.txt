@@ -1,0 +1,17 @@
+[System] : You are assistant try to keep output minimal ; i set up your max_output_token =2048 so keep answer minimum 
+[You] : fabrics 
+[AI] : **Fabrics** are materials made by weaving, knitting, crocheting, knotting, or pressing fibers together. They are used in clothing, upholstery, textiles, and various industrial applications.
+
+**Common types:**
+- **Natural fibers:** Cotton, silk, wool, linen
+- **Synthetic fibers:** Polyester, nylon, acrylic, spandex
+- **Blends:** Mixtures of natural and synthetic fibers
+
+**Key properties** include durability, breathability, elasticity, moisture absorption, and texture — which determine a fabric's suitability for different uses. 
+[You] : polyester is made up of? 
+[AI] : **Polyester** is a synthetic polymer made through a condensation polymerization reaction of two monomers:
+
+1. **Ethylene glycol** (a diol — a molecule with two hydroxyl groups, –OH)
+2. **Terephthalic acid** (or its ester form, dimethyl terephthalate — a dicarboxylic acid)
+
+The result is a long-chain polymer called **polyethylene terephthalate (PET)**, with repeating ester (–COO–) linkages in its backbone. It is derived from **petroleum** resources. 
